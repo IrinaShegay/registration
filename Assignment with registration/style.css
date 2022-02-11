@@ -1,0 +1,140 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+    color: black;
+}
+
+.head.img {
+	position: relative; 
+    filter: blur(10px);
+}
+
+.navbar{
+    position: absolute; 
+    margin-left: 50px;
+}
+
+.h2 {
+    margin-bottom: 20px;
+}
+
+h3{
+    color: aliceblue;
+}
+
+
+.top{
+    position: flex;
+    top: 500px;
+    left: 50px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    
+}
+.link {
+    color: black;
+}
+.quokka {
+
+    position: flex;
+
+}
+
+.higehog {
+    margin-top: 50px;
+}
+.cat {
+    margin-top: 50px;
+
+}
+.table{
+    border-style: line;
+    border-color: black;
+    text-align: center;
+    display: table-cell; 
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    max-height: fit-content;
+    width: max-content;
+    font-size: medium;
+}
+.logo {
+    position: center;
+    text-align: center;
+}
+
+  .menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 125px;
+    text-decoration: none;
+    height: 100%;
+  }
+  
+
+ .container {
+     position: center;
+     text-align: center;
+     display: block;
+ }
+
+ .top{
+    position: center;
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: block;
+ }
+
+ .aboutUs{
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+ 
+ .choice{
+     position: left;
+ }
+
+ .card{
+    background: #eee;
+    float: left;
+    width: 23.5%;
+    margin-right: 2%;
+    padding: 10px;
+    border: 1px solid rgba(123, 185, 81, 0.514);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    position: center;
+     text-align: center;
+     display: block;
+
+ }
+
+ .container_main{
+    position: center;
+    text-align: center;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.479);
+    height: 500px;
+ }
+
+ .item{
+    position: center;
+    text-align: center;
+ }
+ .article{
+     position: center;
+     margin-top: 50px;
+     margin-bottom: 20px;
+ }
